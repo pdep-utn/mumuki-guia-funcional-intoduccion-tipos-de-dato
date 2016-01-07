@@ -1,0 +1,9 @@
+---
+name: Intoducción tipos de dato
+locale: es
+type: learning
+beta: false
+language: haskell
+id_format: '%05d'
+order:
+- 1
