@@ -4,7 +4,7 @@ Esto se debe a que en la función `siguiente` estamos usando la función `(+)`.
 
 Los **valores** tienen asociadas **operaciones**. El conjunto de éstos (_valores_ y _operaciones_) se denomina _**tipo de dato**_.
 
-Veamos unos ejemplos...
+Algunos ejemplos...
 
 | Tipo de Dato   | Algunos Valores  | Algunas Operaciones |
 |:--------------:|:----------------:|:-------------------:|
@@ -13,6 +13,18 @@ Veamos unos ejemplos...
 | Booleano       | True, False      |`not, (&&), (||)`    |
 | Todos          | 1, 3.14, True    |`(==), (/=)`         |
 
-Como podrás ver hay **funciones** que se pueden usar con cualquier tipo de dato. 
+Como podés notar, hay **funciones** que se pueden usar con cualquier tipo de dato. 
 
-Probá en la consola algunas funciones y 
+Probá en la consola los siguientes tipos de dato...
+* Palabra
+* Número
+* Booleano
+
+con las siguientes funciones...
+* `(==) (/=)`
+* `(&&) (||) not`
+* `(-) (+) (*) (/)`
+* `(++)`
+* `id`
+
+y fijate cuáles se pueden realizar y cuáles tiran error.
