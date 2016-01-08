@@ -8,8 +8,8 @@ siguiente x = x + 1
 
 Probala en la consola, mandándole como parámetro distintos valores
 
-* Algunos números: `2`, `6`, `4.3`
+* Algunos números: `2, 6, 4.3`
 
-* Algunos caracteres: `'a'`, `'c'`
+* Algunos caracteres: `'a', 'c'`
 
-* Algunos booleanos: `True`, `False`
+* Algunos booleanos: `True, False`

@@ -6,12 +6,12 @@ Los **valores** tienen asociadas **operaciones**. El conjunto de éstos (_valore
 
 Algunos ejemplos...
 
-| Tipo de Dato   | Algunos Valores  | Algunas Operaciones |
-|:--------------:|:----------------:|:-------------------:|
-| Número Entero  | -4, 0, 1, 3, 10  |`(+), (-), (*)`      |
-| Número Real    | 3.14, 1.62, 2.71 |`(+), (-), (*), (/)` |
-| Booleano       | True, False      |`not, (&&), (||)`    |
-| Todos          | 1, 3.14, True    |`(==), (/=)`         |
+| Tipo de Dato   | Algunos Valores    | Algunas Operaciones |
+|:--------------:|:------------------:|:-------------------:|
+| Número Entero  | `-4, 0, 1, 3, 10`  |`(+), (-), (*)`      |
+| Número Real    | `3.14, 1.62, 2.71` |`(+), (-), (*), (/)` |
+| Booleano       | `True, False`      |`not, (&&), (||)`    |
+| Todos          | `1, 3.14, True`    |`(==), (/=)`         |
 
 Como podés notar, hay **funciones** que se pueden usar con cualquier tipo de dato. 
 
