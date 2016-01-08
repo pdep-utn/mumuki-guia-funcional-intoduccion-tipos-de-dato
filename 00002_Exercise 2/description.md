@@ -16,12 +16,14 @@ Algunos ejemplos...
 Como podés notar, hay **funciones** que se pueden usar con cualquier tipo de dato. 
 
 Probá en la consola los siguientes tipos de dato...
+
 * Palabra
 * Número
 * Booleano
 * Carácter
 
 con las siguientes funciones...
+
 * `(==) (/=)`
 * `(&&) (||) not`
 * `(-) (+) (*) (/)`
