@@ -1,8 +1,8 @@
 Como pudiste ver, `siguiente` funciona sólo con números. Con otros valores nos tira un error muy feo e inentendible.
 
-Esto se debe a que en la función `siguiente` estamos usando la función `(+)`.
+Esto se debe a que dentro de la función `siguiente` estamos usando la función `(+)`.
 
-Los **valores** tienen asociadas **operaciones**. El conjunto de éstos (_valores_ y _operaciones_) se denomina _**tipo de dato**_.
+Los **valores** tienen asociadas **operaciones**. Al conjunto de éstos (_valores_ y _operaciones_) se denomina _**tipo de dato**_.
 
 Algunos ejemplos...
 
@@ -19,6 +19,7 @@ Probá en la consola los siguientes tipos de dato...
 * Palabra
 * Número
 * Booleano
+* Carácter
 
 con las siguientes funciones...
 * `(==) (/=)`
