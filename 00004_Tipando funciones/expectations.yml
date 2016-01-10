@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: esPar
+  inspection: HasTypeDeclaration
+- binding: cantidadDeLetras
+  inspection: HasTypeDeclaration
