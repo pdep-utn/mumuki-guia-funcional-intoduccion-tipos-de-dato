@@ -15,7 +15,7 @@ siguiente x = x + 1
 Entonces, escribamos el tipo de la función `siguiente`.
 
 ```
-siguiente :: Int => Int
+siguiente :: Int -> Int
 ```
 
 Fácil, ¿no?. 
