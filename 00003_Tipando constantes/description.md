@@ -1,6 +1,6 @@
 Ya sabés que los **valores** y **variables** pueden asociarse a un **tipo de dato**.
 
-Haskell se da cuenta del **tipo de dato** sin que escribamos nada de más lo que se conoce como _infiere el tipo_. 
+Haskell se da cuenta del **tipo de dato** sin que escribamos nada de más. A esto se conoce lo como _inferencia de tipo_. 
 Sin embargo es posible explicitar el tipo de dato de los valores y variables, de la siguiente manera.
 
 ```
