@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: edadDeAgus
+  inspection: HasTypeDeclaration
+- binding: nombreDeAgus
+  inspection: HasTypeDeclaration
+- binding: estaHartoAgus
+  inspection: HasTypeDeclaration
+- binding: inicialDeAgus
+  inspection: HasTypeDeclaration
