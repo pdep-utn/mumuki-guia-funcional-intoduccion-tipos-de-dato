@@ -4,7 +4,7 @@ describe "edadDeAgus" $ do
 
 describe "nombreDeAgus" $ do
   it "debe ser del tipo correcto" $ do
-    (nombreDeAgus :: [Char]) `shouldBe` "Agustin"
+    (nombreDeAgus :: String) `shouldBe` "Agustin"
 
 describe "estaHartoAgus" $ do
   it "debe ser del tipo correcto" $ do
