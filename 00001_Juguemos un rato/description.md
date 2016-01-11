@@ -2,7 +2,7 @@
 
 Imaginemos que tenemos la funcion `siguiente`
 
-```
+```haskell
 siguiente x = x + 1
 ```
 

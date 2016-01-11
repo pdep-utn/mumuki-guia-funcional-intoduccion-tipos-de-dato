@@ -8,3 +8,4 @@ Como regla nemotécnica podemos decir que en el tipo de una función hay tantas 
 tieneLongitud :: String -> Int -> Bool
 tieneLongitud palabra longitud = length palabra == longitud
 ```
+

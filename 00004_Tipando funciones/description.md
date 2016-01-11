@@ -6,7 +6,7 @@ Es muy importante, para escribir el tipo de dato de una función, entender muy b
 
 Retomemos el ejemplo de la funcion `siguiente`
 
-```
+```haskell
 siguiente x = x + 1
 ```
 
@@ -14,7 +14,7 @@ siguiente x = x + 1
 
 Entonces, escribamos el tipo de la función `siguiente`.
 
-```
+```haskell
 siguiente :: Int -> Int
 ```
 
@@ -24,7 +24,7 @@ Nuevamente, ¡es momento de que lo hagas vos!
 
 Escribir el tipo de las siguientes funciones.
 
-```
+```haskell
 esPar unNumero = (mod unNumero 2) == 0
 cantidadDeLetras unaPalabra = length unaPalabra
 ```
