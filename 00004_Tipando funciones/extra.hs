@@ -1,3 +1,3 @@
-esPar unNumero = (mod unNumero 2) == 0
+esPar = even
 
-cantidadDeLetras unaPalabra = length unaPalabra
+cantidadDeLetras = length
