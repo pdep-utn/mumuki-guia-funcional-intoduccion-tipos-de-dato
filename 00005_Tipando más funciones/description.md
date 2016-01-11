@@ -9,3 +9,4 @@ tieneLongitud :: String -> Int -> Bool
 tieneLongitud palabra longitud = length palabra == longitud
 ```
 
+Como podés ver, la regla nemotecnica se cumple perfectamente. la funcion `tieneLongitud` recibe dos parámetros y su tipo tiene dos flechas `(->)`
