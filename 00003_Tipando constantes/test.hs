@@ -1,15 +1,15 @@
 describe "edadDeAgus" $ do
   it "debe ser del tipo correcto" $ do
-    (edadDeAgus :: Int) `shouldReturn` 15
+    (edadDeAgus :: Int) `shouldBe` 15
 
 describe "nombreDeAgus" $ do
   it "debe ser del tipo correcto" $ do
-    (nombreDeAgus :: String) `shouldReturn` "Agustin"
+    (nombreDeAgus :: String) `shouldBe` "Agustin"
 
 describe "estaHartoAgus" $ do
   it "debe ser del tipo correcto" $ do
-    (estaHartoAgus :: Bool) `shouldReturn` False
+    (estaHartoAgus :: Bool) `shouldBe` False
 
 describe "inicialDeAgus" $ do
   it "debe ser del tipo correcto" $ do
-    (inicialDeAgus :: Char) `shouldReturn` 'a'
+    (inicialDeAgus :: Char) `shouldBe` 'a'
