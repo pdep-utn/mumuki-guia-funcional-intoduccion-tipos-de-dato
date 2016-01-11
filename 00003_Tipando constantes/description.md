@@ -10,13 +10,13 @@ edadDeFede = 27
 
 De esta forma es como le definimos el tipo a una constante. En este caso explicitamos que la `edadDeFede` es de tipo `Int` (número entero)
 
-¡Es hora que lo hagas vos!
-
-Definí el tipo de las siguientes constantes
-
-```haskell
-edadDeAgus = 15
-nombreDeAgus = "Agustín"
-estaHartoAgus = False
-inicialDeAgus = 'a'
-```
+> ¡Es hora que lo hagas vos!
+> 
+> Definí el tipo de las siguientes constantes
+> 
+> ```haskell
+> edadDeAgus = 15
+> nombreDeAgus = "Agustín"
+> estaHartoAgus = False
+> inicialDeAgus = 'a'
+> ```
