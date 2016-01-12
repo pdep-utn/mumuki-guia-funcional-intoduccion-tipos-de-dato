@@ -7,4 +7,4 @@ describe "esPar" $ do
 describe "cantidadDeLetras" $ do
   it "debe ser del tipo correcto" $ do
     cantidadDeLetras "Hola" `shouldBe` 4
-    Exception.evaluate (cantidadDeLetras [1, 2, 3, 4]) `shouldThrow` anyErrorCall
+    Exception.evaluate (cantidadDeLetras ([1, 2, 3, 4] :: [Int])) `shouldThrow` anyErrorCall
