@@ -1,6 +1,0 @@
----
-expectations:
-- inspection: HasTypeDeclaration
-  binding: mismaCantidadDeLetras
-- inspection: HasTypeDeclaration
-  binding: primerasNLetrasAlReves
