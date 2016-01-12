@@ -17,5 +17,5 @@ Como podés ver, la regla nemotecnica se cumple perfectamente. La función `tien
 >
 > ```haskell
 > mismaCantidadDeLetras palabra1 palabra2 = length palabra1 == length palabra 2
-> primerasLetras
+> primerasNLetrasAlReves n palabra = reverse (take n palabra)
 > ```
