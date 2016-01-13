@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: esPar
-  inspection: HasTypeDeclaration
+  inspection: HasTypeSignature
 - binding: cantidadDeLetras
-  inspection: HasTypeDeclaration
+  inspection: HasTypeSignature
