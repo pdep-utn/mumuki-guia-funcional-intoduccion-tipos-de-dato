@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: nombreCompleto
+  inspection: HasBinding
+- binding: nombreCompleto
+  inspection: HasTypeSignature

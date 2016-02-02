@@ -1,0 +1,1 @@
+La función `++` sirve para concatenar strings. 
