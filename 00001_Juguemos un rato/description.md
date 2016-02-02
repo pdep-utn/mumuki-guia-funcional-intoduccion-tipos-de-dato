@@ -6,10 +6,10 @@ Imaginemos que tenemos la funcion `siguiente`
 siguiente x = x + 1
 ```
 
-Probala en la consola, mandándole como parámetro distintos valores
+¿Qué pasará si la probamos pasándole como parámetro estos distintos valores?
 
 * Algunos números: `2, 6, 4.3`
-
 * Algunos caracteres: `'a', 'c'`
-
 * Algunos booleanos: `True, False`
+ 
+> Probalo vos mismo en la consola y seguínos

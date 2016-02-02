@@ -9,6 +9,6 @@ Ya te contamos los elementos básicos de haskell...
 
 Sin embargo, no te mostramos todo acerca de las variables.
 
-¿Te cuento un secreto? No podemos hacer que una variable tome cualquier valor, sino que depende del contexto. Entender eso es el propósito de esta guía.
+¿Te cuento un secreto? No podemos hacer que una variable tome cualquier valor, sino que depende del contexto. Entender eso es el propósito de esta lección.
 
 Sin dar más vueltas... ¡continuemos!
