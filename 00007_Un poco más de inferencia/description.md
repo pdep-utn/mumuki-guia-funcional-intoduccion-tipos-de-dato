@@ -12,7 +12,7 @@ decinos el tipo de dato (`numero`, `booleano`, `string`
  
  ```
 tipoDeXEnEsAdulta = "???"
-tipoDeReturnoEnEsAdulta = "???"
+tipoDeRetornoEnEsAdulta = "???"
 
 tipoDeXEnEsVacio  = "???"
 tipoDeRetornoEnEsVacio = "???"

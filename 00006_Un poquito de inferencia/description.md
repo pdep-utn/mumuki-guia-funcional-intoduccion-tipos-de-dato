@@ -3,7 +3,7 @@ Juntemos las dos ideas anteriores:
   * con un determinado valor sólo puedo hacer algunas operaciones: las operaciones asociadas a su tipo de dato. 
   * las operaciones que uso dentro de otra operación  "limitan" los los parámetros que puede tomar dicha operación
   
-Es decir, si la función `*` solo acepta números como parámetros, y defino una función doble, que usa la suma: 
+Es decir, si la función `*` solo acepta números como parámetros, y defino una función `doble`, que usa la suma: 
 
 ```haskell
 doble x = 2 * x
