@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: doble
+  inspection: HasBinding
+- binding: doble
+  inspection: HasTypeSignature
