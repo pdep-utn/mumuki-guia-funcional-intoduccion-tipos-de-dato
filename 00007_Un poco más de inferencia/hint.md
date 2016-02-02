@@ -1,0 +1,1 @@
+La función length, de todos los tipos que vimos hasta ahora, funciona para `string`.
