@@ -1,4 +1,4 @@
-¿Te acordás de la composición? Te la recordamos; si tenés:
+¿Te acordás de la composición? Te la recordamos; ésto es `f` compuesto con `g` :
 
 ```haskell
 fog x = f (g x)
