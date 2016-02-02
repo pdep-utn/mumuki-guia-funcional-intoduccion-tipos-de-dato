@@ -11,13 +11,13 @@ Algunos ejemplos...
 | Número Entero  | `-4, 0, 1, 3, 10`  |`(+) (-) (*)`        |
 | Número Real    | `3.14, 1.62, 2.71` |`(+) (-) (*) (/)`    |
 | Booleano       | `True, False`      |`not (&&)`           |
-| Todos          | `1, 3.14, True`    |`(==) (/=)`          |
+| Todos los anteriores|`1, 3.14, True`|`(==) (/=)`          |
 
-Como podés notar, hay **funciones** que se pueden usar con cualquier tipo de dato. 
 
-> Probá en la consola los siguientes tipos de dato...
+
+> Probá que pasa si usás valores de los siguientes tipos...
 > 
-> * Palabra
+> * Palabra (String)
 > * Número
 > * Booleano
 > * Carácter
@@ -30,4 +30,4 @@ Como podés notar, hay **funciones** que se pueden usar con cualquier tipo de da
 > * `(++)`
 > * `id`
 > 
-> y fijate cuáles se pueden realizar y cuáles tiran error.
+> ¡Sacá tus conclusiones!
