@@ -5,3 +5,6 @@ Los tipos más comunes de haskell son...
 * **Carácter**: `Char`
 * **Número real**: `Float`
 * **Número entero**: `Int`
+* Números en general: estemm... ¡más despacio cerebrito!
+
+Y podemos explicitar el tipo de una variable en cualquier lugar (arriba, abajo, pegada a la definición, da lo mismo)

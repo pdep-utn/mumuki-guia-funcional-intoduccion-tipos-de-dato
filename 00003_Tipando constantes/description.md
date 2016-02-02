@@ -1,18 +1,21 @@
-Ya sabés que los **valores** y **variables** pueden asociarse a un **tipo de dato**.
+Bueno, ya fue bastante inferencia "a mano" por ahora :sweat_smile:.
 
-Haskell se da cuenta del **tipo de dato** sin que escribamos nada de más. A esto se conoce lo como _inferencia de tipo_. 
-Sin embargo es posible explicitar el tipo de dato de los valores y variables, de la siguiente manera.
+Haskell es inteligente y en realida es capaz de hacer estos razonamientos por nosotros: sí, Haskell también hace inferencia. 
+
+Sin embargo, podemos dejarle en claro a Haskell cual es el tipo que queremos darle a nuestra variable. Y a eso se lo conoce como explicitar el tipo:
 
 ```haskell
 edadDeFede :: Int
 edadDeFede = 27
 ```
 
-De esta forma es como le definimos el tipo a una constante. En este caso explicitamos que la `edadDeFede` es de tipo `Int` (número entero)
+De esta forma es como le definimos el tipo a una constante. En este caso explicitamos que la `edadDeFede` es de tipo `Int` (número entero).
+
+¡Pero no te olvides de que Haskell es inteligente! No le podemos dar gato por liebre: si le explicitamos un tipo que no coincide con lo que infirió, se va a enojar. 
 
 > ¡Es hora que lo hagas vos!
 > 
-> Definí el tipo de las siguientes constantes
+> Explicitá el tipo de las siguientes constantes
 > 
 > ```haskell
 > edadDeAgus = 15
