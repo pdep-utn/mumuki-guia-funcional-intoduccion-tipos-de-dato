@@ -1,1 +1,1 @@
-elDobleEsMultipoDeTres x = esMultiploDeTres (doble x)
+elDobleEsMultipoDeTres = (==0) . (`mod` 3) . (2*) 
