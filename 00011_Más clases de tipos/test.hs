@@ -5,7 +5,7 @@ it "funcionMisteriosa1 funciona con floantes" $ do
     funcionMisteriosa1 1 `shouldBe` (2 :: Float)
     
 it "funcionMisteriosa2 funciona con numeros" $ do 
-    funcionMisteriosa2 1 `shouldBe` 1
+    funcionMisteriosa2 (1 :: Float) `shouldBe` (1 :: Int)
 
 it "funcionMisteriosa2 funciona con booleanos" $ do 
     funcionMisteriosa2 True `shouldBe` 4
