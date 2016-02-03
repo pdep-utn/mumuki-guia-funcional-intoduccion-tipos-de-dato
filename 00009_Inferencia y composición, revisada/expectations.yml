@@ -8,5 +8,3 @@ expectations:
   inspection: HasUsage:even
 - binding: largoEsPar
   inspection: HasUsage:length
-- binding: ''
-  inspection: ''

@@ -17,6 +17,7 @@ elDobleEsMultipoDeTres = esMultiploDeTres . doble
 
 > Veamos si queda claro: escribí, usando composición, una función `largoEsPar`, que tome un `string` y nos diga si su longitud es par. 
 > Tené en cuenta las siguientes funciones y sus tipos: 
+>
 > * `length`: toma un string y devuelve un número
 > * `even`: toma un número y devuelve un booleano 
 >
