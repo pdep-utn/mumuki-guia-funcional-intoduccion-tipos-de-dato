@@ -4,3 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: doble
   inspection: HasTypeSignature
+- binding: ''
+  inspection: ''

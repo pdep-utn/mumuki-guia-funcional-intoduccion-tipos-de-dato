@@ -1,8 +1,8 @@
 it "funcionMisteriosa1 funciona con enteros" $ do 
-    funcionMisteriosa1 1 `shouldBe` (1 :: Int)
+    funcionMisteriosa1 1 `shouldBe` (2 :: Int)
     
 it "funcionMisteriosa1 funciona con floantes" $ do 
-    funcionMisteriosa1 1 `shouldBe` (1 :: Float)
+    funcionMisteriosa1 1 `shouldBe` (2 :: Float)
     
 it "funcionMisteriosa2 funciona con numeros" $ do 
     funcionMisteriosa2 1 `shouldBe` 1

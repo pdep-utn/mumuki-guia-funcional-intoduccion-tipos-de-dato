@@ -6,5 +6,3 @@ expectations:
   inspection: HasTypeSignature
 - binding: functionMisteriosa3
   inspection: HasTypeSignature
-- binding: ''
-  inspection: ''
