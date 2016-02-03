@@ -8,3 +8,5 @@ expectations:
   inspection: HasTypeSignature
 - binding: inicialDeAgus
   inspection: HasTypeSignature
+- binding: ''
+  inspection: ''
