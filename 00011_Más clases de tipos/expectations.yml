@@ -4,5 +4,5 @@ expectations:
   inspection: HasTypeSignature
 - binding: funcionMisteriosa2
   inspection: HasTypeSignature
-- binding: functionMisteriosa3
+- binding: funcionMisteriosa3
   inspection: HasTypeSignature
