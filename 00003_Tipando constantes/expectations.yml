@@ -1,12 +1,12 @@
 ---
 expectations:
 - binding: edadDeAgus
-  inspection: HasTypeSignature
+  inspection: HasTypeDeclaration
 - binding: nombreDeAgus
-  inspection: HasTypeSignature
+  inspection: HasTypeDeclaration
 - binding: estaHartoAgus
-  inspection: HasTypeSignature
+  inspection: HasTypeDeclaration
 - binding: inicialDeAgus
-  inspection: HasTypeSignature
+  inspection: HasTypeDeclaration
 - binding: ''
   inspection: ''

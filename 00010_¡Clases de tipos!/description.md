@@ -13,7 +13,7 @@ La verdad es que... ¡ninguno de esos! O para ser más justos: ninguno de esos e
 (+) :: Num a => a -> a -> a
 ```
 
-¿Qué significa esto? Que la suma toma tres parámetros de _cualquier tipo_, mientras que esos tipos sean **numéricos**. Y os `Int` y `Float` lo son, mientras que los `Char`, `Bool`, `String`, no. 
+¿Qué significa esto? Que la suma toma tres parámetros de _cualquier tipo_, mientras que esos tipos sean **numéricos**. Y los `Int` y `Float` lo son, mientras que los `Char`, `Bool`, `String`, no. 
 
 Es decir, diferentes clases de tipos: agrupaciones más generales sobre tipos que _se parecen_ entre sí.  
 
