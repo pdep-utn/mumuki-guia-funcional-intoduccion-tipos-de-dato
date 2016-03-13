@@ -4,5 +4,3 @@ expectations:
   inspection: HasTypeSignature
 - binding: cantidadDeLetras
   inspection: HasTypeSignature
-- binding: ''
-  inspection: ''
