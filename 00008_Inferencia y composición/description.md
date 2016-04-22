@@ -4,7 +4,7 @@
 fog x = f (g x)
 ```
 
-El tipo de `fog` es fácil: una un argumento `x` que es del tipo que acepte `g` , y retorna un valor del tipo que retorne `f`. Ejemplo:
+El tipo de `fog` es fácil: toma un argumento `x` que es del tipo que acepte `g` , y retorna un valor del tipo que retorne `f`. Ejemplo:
 
 ```haskell
 elDobleEsMultiploDeTres x = esMultiploDeTres (doble x)
