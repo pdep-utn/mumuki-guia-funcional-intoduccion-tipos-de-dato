@@ -8,8 +8,7 @@ id x = x
 
 Ahí, `x` puede tomar literalmente cualquier valor posible, y retornar algo del mismo tipo. Por eso, su tipo es:
 
-```
-haskell
+```haskell
 id :: a -> a
 ```
 
