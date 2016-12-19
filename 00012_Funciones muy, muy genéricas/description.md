@@ -1,4 +1,4 @@
-Hay un último caso interesante: hay algunas funciones que son tan, tan genéricas, que algunos de sus parémetros tienen variables de tipos y ninguna restricción de clase de tipo. 
+Hay un último caso interesante: hay algunas funciones que son tan, tan genéricas, que algunos de sus parámetros tienen variables de tipos y ninguna restricción de clase de tipo. 
 
 Por ejemplo la función `id`, que nos devuelve, simplemente, lo mismo que recibió: 
 
