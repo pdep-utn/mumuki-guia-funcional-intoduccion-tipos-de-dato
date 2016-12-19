@@ -6,8 +6,8 @@ esAdulta x = x > 18
 esVacio x = length x == 0  
 ```
 
-decinos el tipo de dato (`"numero"`, `"booleano"`, `"string"`
- o `"cualquiera"`) de `x` y de lo que retorna la función: 
+decinos el tipo de dato (`numero`, `booleano`, `string`
+ o `cualquiera`) de `x` y de lo que retorna la función: 
  
  
  ```
@@ -18,4 +18,4 @@ tipoDeXEnEsVacio  = "???"
 tipoDeRetornoEnEsVacio = "???"
 ``` 
  
- (copialo en el editor y completá los `???`)
+ (copialo en el editor y completá los `???` ¡pero sin borrar las comillas!)
