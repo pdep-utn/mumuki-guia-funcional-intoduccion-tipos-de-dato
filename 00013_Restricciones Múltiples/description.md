@@ -11,7 +11,7 @@ También podés aplicar distintas restricciones a la misma _variable de tipo_.
 
 > Ahora te toca a vos!
 >
-> ``` haskell
+> ```haskell
 > funcionMisteriosa1 x  = x > 10
 > funcionMisteriosa2 x y z w = x >= y && z == w
 > ```
