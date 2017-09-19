@@ -4,5 +4,3 @@ expectations:
   inspection: HasTypeSignature
 - binding: funcionMisteriosa2
   inspection: HasTypeSignature
-- binding: "*"
-  inspection: Except:UsesWrongCaseBindings
