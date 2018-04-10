@@ -10,4 +10,4 @@ siguiente x = x + 1
 * Algunos caracteres: `'a', 'c'`
 * Algunos booleanos: `True, False`
  
-> Probalo vos mismo en la consola y seguínos
+> Probalo en la consola y seguínos
