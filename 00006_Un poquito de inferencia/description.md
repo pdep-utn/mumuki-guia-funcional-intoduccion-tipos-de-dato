@@ -13,4 +13,4 @@ doble x = 2 * x
 
 ¿Ves como una cosa lleva a la otra? Si bien nunca le dijimos a Haskell que x es un número, tanto él como nosotros podemos _inferirlo_.
 
-> La inferencia también funciona para lo que devuelve la función. Pensá: ¿qué tipo de dato devuelve doble? ¡Probalo en la consola!
+> La inferencia también funciona para lo que devuelve la función. Pensá: ¿qué tipo de dato devuelve `doble`? ¡Probalo en la consola!
