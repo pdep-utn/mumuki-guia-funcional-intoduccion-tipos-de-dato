@@ -1,6 +1,4 @@
-¿Otra vez por acá?
-
-Ya te contamos los elementos básicos de haskell...
+¡Hola de nuevo! Ya te contamos los elementos básicos de Haskell...
 
 * Qué son los valores
 * Qué son las variables
