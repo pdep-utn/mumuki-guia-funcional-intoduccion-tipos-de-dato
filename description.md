@@ -2,8 +2,8 @@
 
 * Qué son los valores
 * Qué son las variables
-* Qué son las funcione
-* Que éstas últimas son valores :scream:
+* Qué son las funciones
+* Que éstas últimas también son valores y se pueden componer :scream:
 
 Sin embargo, no te mostramos todo acerca de las variables.
 
