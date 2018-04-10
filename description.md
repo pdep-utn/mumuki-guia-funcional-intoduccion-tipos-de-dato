@@ -2,8 +2,8 @@
 
 * Qué son los valores
 * Qué son las variables
-* Qué son las funciones
-* Que éstas últimas son valores, por lo tanto pueden pasarse como parámentros
+* Qué son las funcione
+* Que éstas últimas son valores :scream:
 
 Sin embargo, no te mostramos todo acerca de las variables.
 
