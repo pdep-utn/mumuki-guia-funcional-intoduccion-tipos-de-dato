@@ -20,9 +20,7 @@ siguiente :: Int -> Int
 
 Fácil, ¿no?. 
 
-> Nuevamente, ¡es momento de que lo hagas vos!
-> 
-> Escribir el tipo de las siguientes funciones.
+> Nuevamente, ¡es momento de que lo hagas vos! Escribí el tipo de las siguientes funciones.
 > 
 > ```haskell
 > esPar unNumero = (mod unNumero 2) == 0
