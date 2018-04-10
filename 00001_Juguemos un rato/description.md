@@ -1,5 +1,3 @@
-¡Ahora sí!
-
 Imaginemos que tenemos la funcion `siguiente`
 
 ```haskell
