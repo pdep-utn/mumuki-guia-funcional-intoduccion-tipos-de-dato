@@ -20,9 +20,4 @@ siguiente :: Int -> Int
 
 Como ves, primero escribimos el dominio, luego una flecha `->` y luego la imagen. 
 
-> Nuevamente, ¡es momento de que lo hagas vos! Escribí el tipo de las siguientes funciones.
-> 
-> ```haskell
-> esPar unNumero = (mod unNumero 2) == 0
-> cantidadDeLetras unaPalabra = length unaPalabra
-> ```
+> Nuevamente, ¡es momento de que lo hagas vos! Explicitá el tipo de las siguientes funciones.
