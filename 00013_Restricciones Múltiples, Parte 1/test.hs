@@ -5,4 +5,4 @@ it "estaEntre funciona con flotantes" $ do
   estaEntre (4::Float) 1 6 `shouldBe` True
 
 it "estaEntre funciona con caracteres" $ do 
-  estaEntre 'g' 'a' 'b' `shouldBe` True
+  estaEntre 'g' 'a' 'z' `shouldBe` True
