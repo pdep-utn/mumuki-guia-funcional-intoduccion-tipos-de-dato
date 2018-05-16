@@ -7,7 +7,7 @@ False
 True
 ```
 
-Pero queremos pensarla de forma más genérica: ¡hagamos que nos sirva para cualquier cosa comparable! Por ejemplo, para caracteres:
+Pero queremos pensarla de forma más genérica: ¡hagamos que nos sirva para cualquier cosa ordenable (`Ord`)! Por ejemplo, para caracteres:
 
 ```haskell
 ム  estaEntre 'h' 'a' 'z'
