@@ -15,7 +15,7 @@ La verdad es que... ¡ninguno de esos! O para ser más justos: ninguno de esos e
 
 ¿Qué significa esto? Que la suma toma dos parámetros de _cualquier tipo_, mientras que esos tipos sean **numéricos**. Y los `Int` y `Float` lo son, mientras que los `Char`, `Bool`, `String`, no. 
 
-Es decir, diferentes clases de tipos: agrupaciones más generales sobre tipos que _se parecen_ entre sí.  
+Es decir, estamos descubriendo a las _clases de tipos_: agrupaciones más generales sobre tipos que _se parecen_ entre sí. Y `Num` es una clase de tipos que agrupa a todos los tipos numéricos.   
 
 Esto no pasa con todas las funciones, sino sólamente con algunas muy genéricas como la suma, multiplicación, etc, o con funciones que las usen. 
 
