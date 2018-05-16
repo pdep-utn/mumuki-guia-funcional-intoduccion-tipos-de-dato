@@ -4,3 +4,5 @@ expectations:
   inspection: DeclaresTypeSignature:estaEntre
 - binding: "*"
   inspection: Except:HasRedundantParameter
+- binding: "*"
+  inspection: Except:UsesLongParameterList
