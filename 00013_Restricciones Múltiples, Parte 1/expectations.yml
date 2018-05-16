@@ -1,6 +1,4 @@
 ---
 expectations:
-- binding: funcionMisteriosa1
-  inspection: HasTypeSignature
-- binding: funcionMisteriosa2
-  inspection: HasTypeSignature
+- binding: estaEntre
+  inspection: DeclaresTypeSignature
