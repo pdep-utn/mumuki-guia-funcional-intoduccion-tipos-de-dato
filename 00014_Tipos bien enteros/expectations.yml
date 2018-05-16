@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresTypeSignature:esPar
+- binding: "*"
+  inspection: DeclaresFunction:esPar
