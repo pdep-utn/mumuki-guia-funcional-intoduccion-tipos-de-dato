@@ -10,4 +10,9 @@ siguiente x = x + 1
 * Algunos caracteres: `'a', 'c'`
 * Algunos booleanos: `True, False`
  
-> Probalo en la consola y seguínos
+> Probá en la consola las siguientes consultas y seguínos:
+> 
+> * `siguiente 2`
+> * `siguiente 4.3`
+> * `siguiente 'a'`
+> * `siguiente True`
