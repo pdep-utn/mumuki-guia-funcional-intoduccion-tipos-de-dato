@@ -6,13 +6,6 @@ En Haskell hay varias clases de tipos (también llamadas _restricciones de tipos
 * `Ord` las cosas que son comparables y **además** pueden ser ordenadas de menor a mayor. Los tipos ordenables pueden ser comparados mediante `<`, `>`, `>=`, etc
 * `Show`: las cosas que se pueden convertir en un string y mostrar en una consola, mediante la función `show`
 
-> Veamos si se entiende; explicitá el tipo más general de las siguientes funciones misteriosas:
->
-> ```haskell
-> funcionMisteriosa1 x = x * x + x
-> funcionMisteriosa2 = length.show
-> ```
-
-
+> Veamos si se entiende; explicitá el tipo más general de las funciones misteriosas que están en el editor.
 
  
