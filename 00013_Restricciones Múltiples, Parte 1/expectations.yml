@@ -2,3 +2,5 @@
 expectations:
 - binding: "*"
   inspection: DeclaresTypeSignature:estaEntre
+- binding: "*"
+  inspection: Except:HasRedundantParameter
