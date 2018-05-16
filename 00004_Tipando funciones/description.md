@@ -20,4 +20,4 @@ siguiente :: Int -> Int
 
 Como ves, primero escribimos el dominio, luego una flecha `->` y luego la imagen. 
 
-> Nuevamente, ¡es momento de que lo hagas vos! Explicitá el tipo de las siguientes funciones.
+> Nuevamente, ¡es momento de que lo hagas vos! Explicitá el tipo de las funciones en el editor.
