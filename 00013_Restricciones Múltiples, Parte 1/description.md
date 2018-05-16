@@ -7,4 +7,4 @@ funcionLoca x y z = x == y || show z == "hola"
 
 Y esto se lee así: los parámetros de tipo `a` tienen que ser `Eq`, mientras que los de tipo `b` tienen que ser `Show`.
 
-> ¡Ahora te toca a vos! Explictá el tipo de la función `estaEntre` en el editor. 
+> ¡Veamos si se entiende! Explictá el tipo de la función `estaEntre` en el editor. 
