@@ -1,2 +1,2 @@
 -- completá el tipo acá
-estaEntre valor mayor menor = valor >= menor && valor <= mayor
+estaEntre valor menor mayor = valor >= menor && valor <= mayor
