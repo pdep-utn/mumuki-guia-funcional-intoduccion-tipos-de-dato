@@ -4,7 +4,7 @@
 funcionLoca :: (Eq a, Show b) => a -> a -> b -> Bool
 funcionLoca x y z = x == y || show z == "hola"
 ```
-
+ 
 Y esto se lee así: los parámetros de tipo `a` tienen que ser `Eq`, mientras que los de tipo `b` tienen que ser `Show`.
 
 > ¡Veamos si se entiende! Explictá el tipo las funciones `estaEntre` y `positivoOEstaEntre` en el editor. 
