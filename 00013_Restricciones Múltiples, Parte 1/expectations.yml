@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: estaEntre
-  inspection: DeclaresTypeSignature
+- binding: "*"
+  inspection: DeclaresTypeSignature:estaEntre
