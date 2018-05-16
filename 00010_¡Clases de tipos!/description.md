@@ -18,5 +18,4 @@ La verdad es que... ¡ninguno de esos! O para ser más justos: ninguno de esos e
 Es decir, estamos descubriendo a las _clases de tipos_: agrupaciones más generales sobre tipos que _se parecen_ entre sí. Y `Num` es una clase de tipos que agrupa a todos los tipos numéricos.   
 
 
-
 > Veamos si queda claro: escribí la función `doble`, y explicitala, esta vez dando su tipo más general. 
