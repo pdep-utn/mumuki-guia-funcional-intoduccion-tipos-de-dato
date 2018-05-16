@@ -15,11 +15,4 @@ De esta forma es como le definimos el tipo a una constante. En este caso explici
 
 > ¡Es hora que lo hagas vos!
 > 
-> Explicitá el tipo de las siguientes constantes (no hace falta que copies las constantes al editor, ese código ya lo cargamos por vos)
-> 
-> ```haskell
-> edadDeAgus = 15
-> nombreDeAgus = "Agustín"
-> estaHartoAgus = False
-> inicialDeAgus = 'a'
-> ```
+> Explicitá el tipo de las siguientes constantes que están en el editor. 
