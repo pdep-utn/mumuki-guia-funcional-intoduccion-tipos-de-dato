@@ -9,7 +9,7 @@ tieneLongitud :: String -> Int -> Bool
 tieneLongitud palabra longitud = length palabra == longitud
 ```
 
-> Escribí una `nombreCompleto` que tome un nombre, segundo nombre y apellido y devuelva el nombre completo (separado por espacios). 
+> Escribí una función `nombreCompleto` que tome un nombre, segundo nombre y apellido y devuelva el nombre completo (separado por espacios). 
 >
 > Y explicitá su tipo, claro :stuck_out_tongue:
 
