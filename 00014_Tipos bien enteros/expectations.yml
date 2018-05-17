@@ -4,3 +4,7 @@ expectations:
   inspection: DeclaresTypeSignature:esPar
 - binding: "*"
   inspection: DeclaresFunction:esPar
+- binding: "*"
+  inspection: DeclaresTypeSignature:porcentaje
+- binding: "*"
+  inspection: DeclaresFunction:porcentaje
