@@ -13,6 +13,4 @@ De esta forma es como le definimos el tipo a una constante. En este caso explici
 
 ¡Pero no te olvides de que Haskell es inteligente :sunglasses:! No le podemos dar gato por liebre: si le explicitamos un tipo que no coincide con lo que infirió, se va a enojar. 
 
-> ¡Es hora que lo hagas vos!
-> 
-> Explicitá el tipo de las constantes que están en el editor. 
+> ¡Es hora que lo hagas vos! Explicitá el tipo de las constantes que están en el editor. 
