@@ -7,8 +7,8 @@ it "ignoraElPrimero 5 \"HOLA\" es \"HOLA\"" $ do
 it "sumarTres 1 2 3 es 6" $ do 
   sumarTres 1 2 3 `shouldBe` (6 :: Int)
   
-it "sumarTres 0.1 0.2 0.3 es 0.6" $ do 
-  sumarTres 0.1 0.2 0.3 `shouldBe` 0.6
+it "sumarTres 0.1 0.2 0.2 es 0.5" $ do 
+  sumarTres 0.1 0.2 0.2 `shouldBe` 0.5
   
 it "compararSi True 5 5 es True" $ do 
   compararSi True 5 5 `shouldBe` True
