@@ -3,7 +3,7 @@ Los tipos más comunes de haskell son...
 * **Palabra**: `String`
 * **Booleano**: `Bool`
 * **Carácter**: `Char`
-* **Número real**: `Float`
+* **Número con coma**: `Float`
 * **Número entero**: `Int`
 * Números en general: estemm... ¡más despacio cerebrito!
 
