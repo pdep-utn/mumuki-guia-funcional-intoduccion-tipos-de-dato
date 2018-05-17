@@ -1,6 +1,6 @@
 Antes te mostramos cómo escribir el tipo de una función que espera un parámetro. Pero ¿qué pasa con las funciones que esperan más de un parámetro?
 
-¡Simple! cada parámetro del dominio también se separa con una flecha (`->`).
+¡Simple! Cada parámetro del dominio también se separa con una flecha (`->`).
 
 Como regla mnemotécnica podemos decir que en el tipo de una función hay tantas flechas como cantidad de parámetros :sunglasses:
 
