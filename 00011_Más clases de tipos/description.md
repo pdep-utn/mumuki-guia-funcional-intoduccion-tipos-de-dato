@@ -1,4 +1,4 @@
-Pero en Haskell hay más clases de tipos:
+En Haskell hay más clases de tipos que `Num`:
 
 * `Eq`: las cosas que se pueden comparar por distinto e igual (`\=`  y `==`). Casi todo en Haskell es comparable, **salvo las funciones**. ¡`odd == even` rompe!
 * `Ord` las cosas que son comparables y **además** pueden ser ordenadas de menor a mayor. Los tipos ordenables pueden ser comparados mediante `<`, `>`, `>=`, etc
