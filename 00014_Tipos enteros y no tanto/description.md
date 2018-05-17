@@ -8,6 +8,6 @@ anterior :: Num a => a -> a
 anterior numero = numero - 1
 ```
 
-Pero si por ejemplo queremos usar otras funciones como `rem` o la división `/`, `Num` no nos sirve: `rem` funciona sólo con enteros, y `/`, con números con coma. 
+Pero si por ejemplo queremos usar otras funciones como `rem` o la división `/`, `Num` no nos sirve: `rem` funciona sólo con enteros, y `/`, con números con coma. Y esto es porque Haskell es muy estricto con los tipos y mantiene las cosas bien separadas. 
 
 > Sabiendo ésto, escribí el tipo de la función `esPar` 
