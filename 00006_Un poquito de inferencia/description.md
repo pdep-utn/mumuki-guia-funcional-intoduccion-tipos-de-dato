@@ -9,7 +9,7 @@ Es decir, si la función `*` solo acepta números como parámetros, y defino una
 doble x = 2 * x
 ```
 
-...entonces el parámetro `x` de `doble` sólo puede ser de tipo... ¡número! Si le pasamos otra cosa, por ejemplo `doble 'a'`, se romperá en mil pedazos :boom:. Nos dará **un error de tipo**. 
+...entonces el parámetro `x` de `doble` sólo puede ser de tipo... ¡número! Si le pasamos otra cosa, por ejemplo `doble 'a'`, se romperá en mil pedazos :boom:. Nos dará _un error de tipo_. 
 
 ¿Ves como una cosa lleva a la otra? Si bien nunca le dijimos a Haskell que x es un número, tanto él como nosotros podemos _inferirlo_.
 
