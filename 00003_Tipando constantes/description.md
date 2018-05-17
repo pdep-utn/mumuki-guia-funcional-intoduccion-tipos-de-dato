@@ -11,7 +11,7 @@ edadDeFede = 27
 
 De esta forma es como le definimos el tipo a una constante. En este caso explicitamos que la `edadDeFede` es de tipo `Int` (número entero).
 
-¡Pero no te olvides de que Haskell es inteligente! No le podemos dar gato por liebre: si le explicitamos un tipo que no coincide con lo que infirió, se va a enojar. 
+¡Pero no te olvides de que Haskell es inteligente :sunglasses:! No le podemos dar gato por liebre: si le explicitamos un tipo que no coincide con lo que infirió, se va a enojar. 
 
 > ¡Es hora que lo hagas vos!
 > 
