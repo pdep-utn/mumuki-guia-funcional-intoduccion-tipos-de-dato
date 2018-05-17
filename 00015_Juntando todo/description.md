@@ -1,0 +1,1 @@
+Y como desafío final, juntemos todo lo que vimos hasta ahora: escribí el tipo de `ignoraElPrimero`, `sumarTres` y `compararSi`. ¡Éxitos :muscle:! 

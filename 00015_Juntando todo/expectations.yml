@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresTypeSignature:compararSi
+- binding: "*"
+  inspection: DeclaresTypeSignature:sumarTres
+- binding: "*"
+  inspection: DeclaresTypeSignature:ignorarElPrimero
