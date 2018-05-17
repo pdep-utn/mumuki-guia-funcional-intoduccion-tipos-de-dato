@@ -8,3 +8,5 @@ expectations:
   inspection: DeclaresTypeSignature:porcentaje
 - binding: "*"
   inspection: DeclaresFunction:porcentaje
+- binding: "*"
+  inspection: Except:HasRedundantParameter
