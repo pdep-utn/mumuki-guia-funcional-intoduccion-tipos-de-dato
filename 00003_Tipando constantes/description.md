@@ -2,7 +2,7 @@ Bueno, ya fue bastante inferencia "a mano" por ahora :sweat_smile:.
 
 Haskell es inteligente y en realidad es capaz de hacer estos razonamientos por nosotros: sí, Haskell también hace inferencia. 
 
-Sin embargo, podemos dejarle en claro a Haskell cual es el tipo que queremos darle a nuestra variable. Y a eso se lo conoce como explicitar el tipo:
+Sin embargo, podemos dejarle en claro a Haskell cual es el tipo que queremos darle a nuestra variable. Y a eso se lo conoce como _explicitar el tipo_:
 
 ```haskell
 edadDeFede :: Int
