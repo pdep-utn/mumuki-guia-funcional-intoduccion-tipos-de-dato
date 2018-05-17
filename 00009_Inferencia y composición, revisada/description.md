@@ -5,7 +5,7 @@ fog x = f (g x)
 fog = f.g
 ```
 
-La idea de inferencia bajo la composición usando la función `.` no tiene misterios: _`fog` en cualquier caso es una funcion que toma lo que tome g, y devuelve lo que devuelva f_. 
+La idea de inferencia bajo la composición usando la función `.` no tiene misterios: _`fog` es una funcion que toma lo que tome g, y devuelve lo que devuelva f_. 
 
 Así que...
 
