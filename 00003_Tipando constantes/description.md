@@ -15,4 +15,4 @@ De esta forma es como le definimos el tipo a una constante. En este caso explici
 
 > ¡Es hora que lo hagas vos!
 > 
-> Explicitá el tipo de las siguientes constantes que están en el editor. 
+> Explicitá el tipo de las constantes que están en el editor. 
