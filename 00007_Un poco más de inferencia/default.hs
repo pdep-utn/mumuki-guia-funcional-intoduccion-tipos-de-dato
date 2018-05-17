@@ -1,0 +1,6 @@
+tipoDeXEnEsAdulta = "???"
+tipoDeRetornoEnEsAdulta = "???"
+
+tipoDeXEnEsVacio  = "???"
+tipoDeRetornoEnEsVacio = "???"
+ 
