@@ -6,3 +6,5 @@ expectations:
   inspection: DeclaresTypeSignature:sumarTres
 - binding: "*"
   inspection: DeclaresTypeSignature:ignorarElPrimero
+- binding: "*"
+  inspection: Except:HasRedundantParameter
