@@ -1,2 +1,3 @@
 esPar :: -- completar acá
-esPar numero = rem numero == 0 
+esPar numero = rem numero 2 == 0 
+
