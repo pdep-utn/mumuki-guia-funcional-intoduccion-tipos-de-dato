@@ -1,0 +1,3 @@
+¡Bien! Como vemos, `Num` es una clase de tipos útil para indicar que queremos que nuestra función trabaje con cualquier tipo de número, pero si necesitamos algo específico de los `Float` o `Int`, no nos servirá. 
+
+Para ser justos, Haskell tiene un montón de clases de tipos diferentes para los números, que nos dan más flexibilidad, peeeeero, son un poco complicadas :confused:. Así que por ahora con `Num`, `Int` y `Float` nos alcanzará :wink:. 
