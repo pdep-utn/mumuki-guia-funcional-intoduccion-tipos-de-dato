@@ -1,6 +1,4 @@
-Dijimos que la función `+` funciona para números, entonces es de suponer que puedo usarla con enteros `Int` o con números con coma `Float`. 
-
-Pero, pero... ¿entonces cual es su tipo?
+Dijimos que la función `+` funciona para números, entonces es de suponer que puedo usarla con `Int` (enteros) o `Float` (números con coma). Pero, pero... ¿entonces cual es su tipo?
 
 ```haskell
 -- ¿es éste?
