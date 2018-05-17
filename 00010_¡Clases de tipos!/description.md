@@ -1,4 +1,4 @@
-Dijimos que la función `+` funciona para números, entonces es de suponer que puedo usarla con enteros `Int` o floantes `Float`. 
+Dijimos que la función `+` funciona para números, entonces es de suponer que puedo usarla con enteros `Int` o con números con coma `Float`. 
 
 Pero, pero... ¿entonces cual es su tipo?
 
