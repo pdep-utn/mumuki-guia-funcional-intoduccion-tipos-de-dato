@@ -1,4 +1,4 @@
-¡Bien! Poder inferir el tipo de un valor (y en particular, de las funciones) es muy muy muy importante cuando programamos.
+¡Bien! :tada: Poder inferir el tipo de un valor (y en particular, de las funciones) es muy muy muy importante cuando programamos.
 
 Y algo más: recién llamamos a nuestros paraámetros `x`, pero lo hicimos sólo para despistarte un poco.  
 
