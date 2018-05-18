@@ -3,10 +3,10 @@ expectations:
 - binding: "*"
   inspection: DeclaresTypeSignature:esPar
 - binding: "*"
-  inspection: DeclaresFunction:esPar
+  inspection: Declares:esPar
 - binding: "*"
   inspection: DeclaresTypeSignature:porcentaje
 - binding: "*"
-  inspection: DeclaresFunction:porcentaje
+  inspection: Declares:porcentaje
 - binding: "*"
   inspection: Except:HasRedundantParameter
