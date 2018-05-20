@@ -10,7 +10,7 @@ Retomemos el ejemplo de la funcion `siguiente`
 siguiente x = x + 1
 ```
 
-¿Cuál es el **dominio** y la **imagen** esta función? Su **dominio** es un número entero y su **imagen** también.
+¿Cuál es el **dominio** y la **imagen** de esta función? Su **dominio** es un número entero y su **imagen** también.
 
 Entonces, escribamos el tipo de la función `siguiente`.
 
