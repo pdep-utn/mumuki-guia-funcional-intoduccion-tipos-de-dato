@@ -3,7 +3,7 @@ Bueno, ya fue bastante inferencia "a mano" por ahora :sweat_smile:. Haskell es i
 Sin embargo, podemos dejarle en claro a Haskell cual es el tipo que queremos darle a nuestra variable. Y a eso se lo conoce como _explicitar el tipo_:
 
 ```haskell
-edadDeLaura :: Int
+edadDeFede :: Int
 edadDeFede = 27
 ```
 
