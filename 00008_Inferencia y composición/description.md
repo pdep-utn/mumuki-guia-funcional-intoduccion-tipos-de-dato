@@ -1,13 +1,17 @@
-¿Te acordás de la composición? Te la recordamos; ésto es `f` compuesto con `g` :
+¿Te acordás de la composición? Te la recordamos por si acaso:
+
+Esto es `unaFuncion` compuesto con `otraFuncion` :
 
 ```haskell
-fog x = f (g x)
+unaFuncionNueva x = unaFuncion (otraFuncion numero) --Sin utilizar composición.
+
+unaFuncionNueva = unaFuncion.otraFuncion --Utilizando composición.
 ```
 
-El tipo de `fog` es fácil: toma un argumento `x` que es del tipo que acepte `g` , y retorna un valor del tipo que retorne `f`. Ejemplo:
+El tipo de `unaFuncionNueva` es fácil: toma un argumento `x` que es del tipo que acepte `otraFuncion` , y retorna un valor del tipo que retorne `unaFuncion`. Ejemplo:
 
 ```haskell
-elDobleEsMultiploDeTres x = esMultiploDeTres (doble x)
+elDobleEsMultiploDeTres numero = esMultiploDeTres (doble numero)
 ```
 
 Si `esMultiploDeTres` devuelve un booleano, y `doble` acepta un número, entonces `esMultiploDeTres` acepta un número y devuelve un booleano. 
