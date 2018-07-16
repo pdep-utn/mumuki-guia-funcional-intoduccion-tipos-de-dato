@@ -1,11 +1,12 @@
 El tema es que la composición, como ya te contamos, la podemos escribir de forma más compacta. La siguientes dos definiciones son **equivalentes**:
 
 ```haskell
-fog x = f (g x)
-fog = f.g
+unaFuncionNueva x = unaFuncion (otraFuncion numero) -- Sin utilizar la función composición (.)
+
+unaFuncionNueva = unaFuncion.otraFuncion -- Utilizando la función composición (.)
 ```
 
-La idea de inferencia bajo la composición usando la función `.` no tiene misterios: _`fog` es una funcion que toma lo que tome g, y devuelve lo que devuelva f_. 
+La idea de inferencia bajo la composición usando la función `.` no tiene misterios: _`unaFuncionNueva` es una funcion que toma lo que tome `otraFuncion`, y devuelve lo que devuelva `unaFuncion`_. 
 
 Así que...
 
