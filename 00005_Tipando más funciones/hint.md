@@ -1,1 +1,2 @@
-Ah, la función `++` sirve para concatenar strings. Y un `String` espacio se escribe así: `" "`.    
+* Recorda la función `++`.
+* Un `String` espacio se escribe así: `" "`.    
