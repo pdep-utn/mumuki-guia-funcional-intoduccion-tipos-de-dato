@@ -1,0 +1,1 @@
+Recorda la regla de que la cantidad de flechitas del tipo es igual a la cantidad de parámetros de la función.
