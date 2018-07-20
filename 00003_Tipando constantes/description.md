@@ -1,4 +1,4 @@
-Bueno, ya fue bastante inferencia "a mano" por ahora :sweat_smile:. Haskell es inteligente y en realidad es capaz de hacer estos razonamientos por nosotros: sí, Haskell también hace inferencia. 
+Bueno, ya fue bastante inferencia "a mano" por ahora :sweat_smile:. Haskell es inteligente y en realidad es capaz de hacer estos razonamientos por nosotros: sí, Haskell también hace inferencia, es decir, sabe de que tipo son nuestros valores aún sin que se lo digamos. 
 
 Sin embargo, podemos dejarle en claro a Haskell cual es el tipo que queremos darle a nuestra variable. Y a eso se lo conoce como _explicitar el tipo_:
 
