@@ -2,7 +2,7 @@ Recién viste como escribir el **tipo de dato** de una **constante** de forma ex
 
 A las **funciones**, al ser **valores**, también se les puede explicitar el tipo de dato, sólamente que es un poco distinto
 
-Es muy importante, para escribir el tipo de dato de una función, entender muy bién cuál es su dominio y cuál es su imagen.
+Es muy importante, para escribir el tipo de dato de una función, entender muy bién cuál es su dominio y cuál es su imagen, o en criollo, qué recibe y qué devuelve.
 
 Retomemos el ejemplo de la funcion `siguiente`
 
