@@ -16,7 +16,7 @@ Dijimos que la función `+` funciona para números, entonces es de suponer que p
 ¿Qué significa esto? :neutral_face: 
 
 * Que la suma toma dos parámetros y retorna un valor de _cualquier tipo_, mientras que ese tipo sea **numérico**;
-* que sea cual sea ese tipo numérico, será el mismo para los dos parámetros y para lo que devolvemos. Por eso todos tienen la misma letra (podía ser la `a` como cualquier otra).
+* que sea cual sea ese tipo numérico específico, si queremos que sea el mismo debemos usar la misma letra (podía ser la `a` como cualquier otra).
 
 De eso se tratan las _clases de tipos_: son agrupaciones generales sobre tipos que _se parecen_ entre sí. Y `Num` es una clase de tipos que agrupa a todos los tipos numéricos.
 
