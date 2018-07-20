@@ -12,5 +12,11 @@ tieneLongitud palabra longitud = length palabra == longitud
 > Escribí una función `nombreCompleto` que tome un nombre, segundo nombre y apellido y devuelva el nombre completo (separado por espacios). 
 >
 > Y explicitá su tipo, claro :stuck_out_tongue:
+>
+``` Haskell
+ム nombreCompleto "carlos" "alberto" "garcia"
+"carlos alberto garcia"
+```
+
 
 
