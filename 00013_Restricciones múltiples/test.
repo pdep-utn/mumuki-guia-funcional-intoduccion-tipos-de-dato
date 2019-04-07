@@ -17,7 +17,7 @@ it "positivoOEstaEntre funciona con flotantes positivos" $ do
   positivoOEstaEntre (4::Float) 0 1 6 `shouldBe` True
   
 it "positivoOEstaEntre funciona con flotantes negativos" $ do 
-  positivoOEstaEntre ((-4)::Float) -8 -2 -3 `shouldBe` False
+  positivoOEstaEntre ((-4)::Float) (-8) (-2) (-3) `shouldBe` False
 
 it "positivoOEstaEntre funciona con caracteres" $ do 
   positivoOEstaEntre (-3) 'e' 'a' 'z' `shouldBe` True 
