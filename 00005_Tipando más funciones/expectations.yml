@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: nombreCompleto
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: nombreCompleto
   inspection: HasBinding
-- binding: nombreCompleto
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: nombreCompleto
   inspection: HasTypeSignature
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Except:HasRedundantParameter

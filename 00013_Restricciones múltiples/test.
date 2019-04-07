@@ -1,0 +1,23 @@
+it "estaEntre funciona con enteros" $ do 
+  estaEntre (4::Int) 5 6 `shouldBe` False
+
+it "estaEntre funciona con flotantes" $ do 
+  estaEntre (4::Float) 1 6 `shouldBe` True
+
+it "estaEntre funciona con caracteres" $ do 
+  estaEntre 'g' 'a' 'z' `shouldBe` True 
+  
+it "positivoOEstaEntre funciona con enteros positivos" $ do 
+  positivoOEstaEntre (4::Int) 3 5 6 `shouldBe` True
+  
+it "positivoOEstaEntre funciona con enteros negativos" $ do 
+  positivoOEstaEntre (-4::Int) 6 2 5 `shouldBe` False
+
+it "positivoOEstaEntre funciona con flotantes positivos" $ do 
+  positivoOEstaEntre (4::Float) 0 1 6 `shouldBe` True
+  
+it "positivoOEstaEntre funciona con flotantes negativos" $ do 
+  positivoOEstaEntre (-4::Float) -8 -2 -3 `shouldBe` False
+
+it "positivoOEstaEntre funciona con caracteres" $ do 
+  positivoOEstaEntre -3 'e' 'a' 'z' `shouldBe` True 

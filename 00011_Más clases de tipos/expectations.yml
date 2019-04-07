@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: funcionMisteriosa1
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: funcionMisteriosa1
   inspection: HasTypeSignature
-- binding: funcionMisteriosa2
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: funcionMisteriosa2
   inspection: HasTypeSignature
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Except:UsesWrongCaseBindings

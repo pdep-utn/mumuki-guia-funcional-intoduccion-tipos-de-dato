@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: edadDeAgus
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: edadDeAgus
   inspection: HasTypeSignature
-- binding: nombreDeAgus
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: nombreDeAgus
   inspection: HasTypeSignature
-- binding: estaHartoAgus
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: estaHartoAgus
   inspection: HasTypeSignature
-- binding: inicialDeAgus
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: inicialDeAgus
   inspection: HasTypeSignature

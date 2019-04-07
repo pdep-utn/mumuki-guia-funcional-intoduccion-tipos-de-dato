@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: esPar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esPar
   inspection: HasTypeSignature
-- binding: cantidadDeLetras
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cantidadDeLetras
   inspection: HasTypeSignature
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Except:HasRedundantParameter
