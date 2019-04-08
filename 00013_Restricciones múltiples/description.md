@@ -1,4 +1,4 @@
-¿Ahora que pasa si tenemos más de un parámetro, y no todos los parámetros pertenecen a la misma clase de tipo? ¡Utilizamos varias _variables de tipo_!
+¿Ahora que pasa si tenemos más de un parámetro, y no todos los parámetros pertenecen a la misma clase de tipo? ¡Utilizamos varias _variables de tipo_! 
 
 ```haskell
 funcionLoca :: (Ord a, Show b) => a -> a -> b -> Bool
