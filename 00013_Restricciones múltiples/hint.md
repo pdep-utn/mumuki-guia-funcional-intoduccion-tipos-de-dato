@@ -14,12 +14,14 @@ Pero queremos pensarla de forma más genérica: ¡hagamos que nos sirva para cua
 True
 ```
 
-Eso quiere decir que incluso podríamos escribir cosas como esta...
+Mirá qué hace `sonIgualesOEstaEntre`, y vas a notar que podríamos escribir cosas como estas...
 
 ```haskell
-ム positivoOEstaEntre 4 'h' 'a' 'z'
+ム `sonIgualesOEstaEntre` 'h' 'h' 3 4 5
 True
+ム `sonIgualesOEstaEntre` 5 6 'b' 'c' 'f'
+False
 ```
 
-...porque el primer parámetro tiene que ser un número, ¡pero los demás no!
+...porque los dos primeros parámetros tienen que ser del mismo tipo, ¡pero no necesariamente del mismo que los otros tres! :wink:
 
