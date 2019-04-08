@@ -8,13 +8,13 @@ it "estaEntre funciona con caracteres" $ do
   estaEntre 'g' 'a' 'z' `shouldBe` True 
   
 it "positivoOEstaEntre funciona con enteros positivos" $ do 
-  positivoOEstaEntre (4::Int) (3::Int) 5 6 `shouldBe` True
+  positivoOEstaEntre (4::Int) (4::Int) 5 6 `shouldBe` True
   
 it "positivoOEstaEntre funciona con enteros negativos" $ do 
   positivoOEstaEntre ((-4)::Int) (6::Int) 2 5 `shouldBe` False
 
 it "positivoOEstaEntre funciona con flotantes positivos" $ do 
-  positivoOEstaEntre (4::Float) (0::Float) 1 6 `shouldBe` True
+  positivoOEstaEntre (4::Float) (3::Float) 1 6 `shouldBe` True
   
 it "positivoOEstaEntre funciona con flotantes negativos" $ do 
   positivoOEstaEntre ((-4)::Float) (-8::Float) (-2) (-3) `shouldBe` False
