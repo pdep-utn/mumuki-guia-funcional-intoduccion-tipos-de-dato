@@ -24,4 +24,3 @@ False
 ```
 
 ...porque los dos primeros parámetros tienen que ser del mismo tipo, ¡pero no necesariamente del mismo que los otros tres! :wink:
-
