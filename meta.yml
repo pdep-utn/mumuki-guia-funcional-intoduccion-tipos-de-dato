@@ -3,6 +3,7 @@ name: Introducción a los Tipos de Datos
 locale: es
 type: learning
 beta: false
+teacher_info: ''
 language: haskell
 id_format: "%05d"
 order:

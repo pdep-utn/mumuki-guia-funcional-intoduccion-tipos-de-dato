@@ -8,7 +8,4 @@ expectations:
   inspection: Except:HasRedundantParameter
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Except:UsesLongParameterList
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
   inspection: DeclaresTypeSignature:sonIgualesOEstaEntre
