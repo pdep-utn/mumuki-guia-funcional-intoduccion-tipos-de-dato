@@ -2,4 +2,4 @@
 estaEntre valor menor mayor = valor >= menor && valor <= mayor
 
 -- completá el tipo acá
-positivoOEstaEntre unValor otroValor menor mayor = unValor > 0 || estaEntre otroValor menor mayor 
+sonIgualesOEstaEntre unValor otroValor valorEntre menor mayor = unValor == otroValor || estaEntre valorEntre menor mayor
